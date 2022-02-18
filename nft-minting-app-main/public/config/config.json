@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52F6B3f103BA701548F1B4A36c44dE421e8180D5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x52f6b3f103ba701548f1b4a36c44de421e8180d5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ChipPix NFT",
+  "SYMBOL": "CHP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chippix",
+  "SHOW_BACKGROUND": true
+}
